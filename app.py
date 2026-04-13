@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
+st.set_page_config(page_title="Penguin Species Classifier", page_icon="🐧")
+
 st.title('🐧 Penguin Species Classifier')
 
 st.info('This interactive app uses a **Random Forest Classifier** to predict the species of a penguin based on its physical characteristics like bill size, flipper length, and body mass.')
