@@ -1,7 +1,7 @@
 # 🐧 Penguin Species Classifier
 An interactive machine learning web application that predicts the species of a penguin based on its physical characteristics. The app leverages a **Random Forest Classifier** and provides real-time predictions through a user-friendly interface.
 
-**Live App: https://penguins-species-classifier.streamlit.app**
+**🔗 Live App: https://penguins-species-classifier.streamlit.app**
 
 ## Overview
 This project demonstrates an end-to-end machine learning workflow integrated into a web application. It combines data preprocessing, model training, and inference within a single pipeline, enabling users to input penguin attributes and obtain species predictions instantly. The application is built using **Streamlit** for the frontend and **Scikit-learn** for model development.
@@ -124,6 +124,6 @@ The application avoids complex pipelines or external APIs, making it:
 This project showcases the practical integration of machine learning into an interactive web application. It highlights the complete lifecycle, from data preprocessing to real-time inference, within a clean and accessible interface.
 
 The application serves as a strong demonstration of:
-- Applied machine learning
-- Data preprocessing techniques
-- Model deployment using Streamlit
+- Applied machine learning.
+- Data preprocessing techniques.
+- Model deployment using Streamlit.
